@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋, I'm Maniruddin Khan<br>Learning Full stack development on Testbook, currently persuing my B.tech in Computer Science & Engineering.</h2>
+<h2 align="left">Hi 👋, I'm Maniruddin Khan<br>Learning Full stack development on Testbook, currently persuing my B.tech in Computer Science & Engineering.</h2>
 
 
 
