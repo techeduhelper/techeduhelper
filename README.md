@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋, I'm Maniruddin Khan<br>Certified Full stack developer from Skill Academy by Testbook, currently persuing my B.tech in Computer Science & Engineering.</h2>
+<h2 align="left">Hi 👋, I'm Maniruddin Khan<br>Certified MERN stack developer from Skill Academy by Testbook, currently persuing my B.tech in Computer Science & Engineering.</h2>
 
 
 
