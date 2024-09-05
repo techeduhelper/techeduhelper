@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋, I'm Maniruddin Khan, Certified MERN stack developer from Skill Academy by Testbook & Currently I am Working at Code Theorem as a Frontend Developer.</h2>
+<h3 align="left">Hi 👋, I’m Maniruddin, a frontend developer skilled in JavaScript, TypeScript, Angular, React.js, and Node.js, with a Bachelor's degree in Computer Science and Engineering. I specialize in creating user-centric web interfaces and seamless digital experiences. My practical approach combines frontend and backend expertise, with a strong focus on efficient, clean code. Currently, I’m expanding my skills in Java to enhance my full-stack capabilities.</h3>
 
 
 
