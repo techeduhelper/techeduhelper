@@ -13,7 +13,7 @@
 # 💻 My Secret Weapons:
 ⚡ The power of **HTML**, **CSS**, and **JavaScript**! (Because even superheroes need their suits! 🦸‍♂️)  
 ⚡ **Angular & React.js** – Frontend magic spells! ✨  
-⚡ **Node.js & Express** – Because backend matters too! 🛠  
+⚡ **Nest Js, Node.js & Express** – Because backend matters too! 🛠  
 ⚡ **MongoDB & MySQL** – Storing my coding mistakes... I mean, data! 😅  
 ⚡ **Tailwind & Bootstrap** – Making UI fancy without losing my sanity! 🎨  
 ⚡ **AWS & Firebase** – Cloud stuff to sound smart in meetings ☁️  
