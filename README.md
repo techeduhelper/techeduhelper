@@ -1,4 +1,4 @@
-<h3 align="left">Hey there! 👋 I'm Maniruddin, your friendly neighborhood frontend developer. 🚀</h3>
+<h3 align="left">Hey there! 👋 I'm Maniruddin, your friendly neighborhood Full Stack developer | Angular Developer. 🚀</h3>
 
 <h3 align="left">I turn coffee ☕ into code, crafting seamless user experiences with JavaScript, TypeScript, Angular, React.js, and Node.js. With a Bachelor's degree in Computer Science and Engineering, I specialize in making the web a better place—one pixel at a time! 🎨✨ Currently, I’m adding Java to my arsenal to become a full-stack ninja. 🥷</h3>
 
